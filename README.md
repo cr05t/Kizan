@@ -1,5 +1,7 @@
+https://rdlp.jp/archives/otherdesign/lp/226067
+※js使用の画像スライド表示機能の代わりに、画像一枚で表示してます。
 
-# Display HTML Code
+# ダイニングで語れる憩うおしゃれで小さなキッチン| HIROMA
 
 これは「Display HTML Code」のコードバンドルです。元のプロジェクトは https://www.figma.com/design/nIIvoulWovP5i5yOYHIU0d/Display-HTML-Code にあります。
 
